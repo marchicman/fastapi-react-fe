@@ -1,0 +1,13 @@
+DRAFT URL https://5faba8a04b0bb362b5b4f548--todofastapireact.netlify.app/
+
+ PER PUBBLICARLO netlify deploy --prod
+
+
+ https://tranquil-garden-76378.herokuapp.com/ | https://git.heroku.com/tranquil-garden-76378.git
+
+#deployed to Heroku
+  https://tranquil-garden-76378.herokuapp.com/ 
+
+  https://testdriven.io/blog/fastapi-react/#post-route
+
+  REACT_APP_BACKEND_URL="https://tranquil-garden-76378.herokuapp.cox"
